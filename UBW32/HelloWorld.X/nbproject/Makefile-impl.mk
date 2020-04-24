@@ -43,20 +43,6 @@ ALLCONFS=MX460 MX795
 .clean-impl: .clean-pre
 	${MAKE} -f nbproject/Makefile-${CONF}.mk SUBPROJECTS=${SUBPROJECTS} .clean-conf
 
-# clobber
-.clobber-impl: .clobber-pre .depcheck-impl
-	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=MX460 clean
-	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=MX795 clean
-
-
-
-# all
-.all-impl: .all-pre .depcheck-impl
-	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=MX460 build
-	    ${MAKE} SUBPROJECTS=${SUBPROJECTS} CONF=MX795 build
-
-
-
 # dependency checking support
 .depcheck-impl:
 #	@echo "# This code depends on make tool being used" >.dep.inc
