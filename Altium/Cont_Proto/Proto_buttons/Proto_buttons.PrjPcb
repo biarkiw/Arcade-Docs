@@ -66,6 +66,67 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=FGOUDUSC
 
+[Document2]
+DocumentPath=Proto_buttons.PcbDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=SYTCOJYY
+
+[ProjectVariant1]
+UniqueId=2ad97fb7-2ca4-4562-9c4f-8ac38d4962b3
+Description=Matrix Mode
+AllowFabrication=1
+ParameterCount=0
+VariationCount=27
+AllowVariationPastMask=1
+Variation1=Designator=L1|UniqueId=\UMHAZLOO|Kind=1|AlternatePart=
+Variation2=Designator=R13|UniqueId=\DRZXROVI|Kind=1|AlternatePart=
+Variation3=Designator=R12|UniqueId=\NQTTMNBP|Kind=1|AlternatePart=
+Variation4=Designator=R11|UniqueId=\UVVIRKLC|Kind=1|AlternatePart=
+Variation5=Designator=R9|UniqueId=\OLDUWXCH|Kind=1|AlternatePart=
+Variation6=Designator=R5|UniqueId=\GMZSQEDF|Kind=1|AlternatePart=
+Variation7=Designator=R8|UniqueId=\GLAZEVVN|Kind=1|AlternatePart=
+Variation8=Designator=R1|UniqueId=\PTQFXDRM|Kind=1|AlternatePart=
+Variation9=Designator=R10|UniqueId=\BZZJPBGU|Kind=1|AlternatePart=
+Variation10=Designator=R4|UniqueId=\QHXFGQJY|Kind=1|AlternatePart=
+Variation11=Designator=R7|UniqueId=\OHLESJXK|Kind=1|AlternatePart=
+Variation12=Designator=R3|UniqueId=\OSFBOQTV|Kind=1|AlternatePart=
+Variation13=Designator=R6|UniqueId=\NLRKEXWY|Kind=1|AlternatePart=
+Variation14=Designator=R2|UniqueId=\DEBPJGUM|Kind=1|AlternatePart=
+Variation15=Designator=C1|UniqueId=\WXZNTCUU|Kind=1|AlternatePart=
+Variation16=Designator=J2|UniqueId=\HOXXUFRU|Kind=1|AlternatePart=
+Variation17=Designator=C12|UniqueId=\QDCCSODC|Kind=1|AlternatePart=
+Variation18=Designator=C5|UniqueId=\FTGKLYNR|Kind=1|AlternatePart=
+Variation19=Designator=C11|UniqueId=\OREFHDCX|Kind=1|AlternatePart=
+Variation20=Designator=C4|UniqueId=\ILQPZGLK|Kind=1|AlternatePart=
+Variation21=Designator=C3|UniqueId=\GPTTKDMB|Kind=1|AlternatePart=
+Variation22=Designator=C6|UniqueId=\RBVIYHYU|Kind=1|AlternatePart=
+Variation23=Designator=C2|UniqueId=\JKMAZAMK|Kind=1|AlternatePart=
+Variation24=Designator=C10|UniqueId=\WJZYBQGR|Kind=1|AlternatePart=
+Variation25=Designator=C7|UniqueId=\YLROOAYF|Kind=1|AlternatePart=
+Variation26=Designator=C9|UniqueId=\GKEFSWZB|Kind=1|AlternatePart=
+Variation27=Designator=C8|UniqueId=\OSNFIOWG|Kind=1|AlternatePart=
+ParamVariationCount=0
+
+[ProjectVariant2]
+UniqueId=d7bc5f94-dcdd-4263-ba63-3337083a2689
+Description=PU Mode
+AllowFabrication=0
+ParameterCount=0
+VariationCount=0
+ParamVariationCount=0
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
@@ -562,6 +623,36 @@ OutputName12=Web Review Data
 OutputDocumentPath12=
 OutputVariantName12=
 OutputDefault12=0
+OutputType13=Ansoft Neutral
+OutputName13=Ansoft Neutral (AutoPCB)
+OutputDocumentPath13=
+OutputVariantName13=
+OutputDefault13=0
+OutputType14=HyperLynx
+OutputName14=HyperLynx (AutoPCB)
+OutputDocumentPath14=
+OutputVariantName14=
+OutputDefault14=0
+OutputType15=MathWorks
+OutputName15=MathWorks (AutoPCB)
+OutputDocumentPath15=
+OutputVariantName15=
+OutputDefault15=0
+OutputType16=Orcad v7 Capture Design
+OutputName16=Orcad v7 Capture Design (AutoSCH)
+OutputDocumentPath16=
+OutputVariantName16=
+OutputDefault16=0
+OutputType17=P-CAD ASCII
+OutputName17=P-CAD ASCII (AutoPCB)
+OutputDocumentPath17=
+OutputVariantName17=
+OutputDefault17=0
+OutputType18=P-CAD V16 Schematic Design
+OutputName18=P-CAD V16 Schematic Design (AutoSCH)
+OutputDocumentPath18=
+OutputVariantName18=
+OutputDefault18=0
 
 [OutputGroup10]
 Name=PostProcess Outputs

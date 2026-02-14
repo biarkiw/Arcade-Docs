@@ -1,0 +1,127 @@
+Added Component: Designator=S1(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S2(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S3(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S4(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S5(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S6(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S7(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S8(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S9(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S10(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S11(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Component: Designator=S12(SW_SWT0310-043016GSA_REVA)
+Add component (AddParameter): Name = "closed"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Rclosed"; Value = "1m"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Ropen"; Value = "1Meg"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Added Net: Name=+5
+Added Net: Name=Col1
+Added Net: Name=NetL1_2
+Added Pin To Net: NetName=PB1 Pin=S5-2
+Added Pin To Net: NetName=PB1 Pin=S5-2
+Added Net: Name=PB1
+Added Pin To Net: NetName=PB2 Pin=S6-2
+Added Pin To Net: NetName=PB2 Pin=S6-2
+Added Net: Name=PB2
+Added Pin To Net: NetName=PB3 Pin=S7-2
+Added Pin To Net: NetName=PB3 Pin=S7-2
+Added Net: Name=PB3
+Added Pin To Net: NetName=PB4 Pin=S8-2
+Added Pin To Net: NetName=PB4 Pin=S8-2
+Added Net: Name=PB4
+Added Pin To Net: NetName=PB5 Pin=S1-2
+Added Pin To Net: NetName=PB5 Pin=S1-2
+Added Net: Name=PB5
+Added Pin To Net: NetName=PB6 Pin=S2-2
+Added Pin To Net: NetName=PB6 Pin=S2-2
+Added Net: Name=PB6
+Added Pin To Net: NetName=PB7 Pin=S3-2
+Added Pin To Net: NetName=PB7 Pin=S3-2
+Added Net: Name=PB7
+Added Pin To Net: NetName=PB8 Pin=S4-2
+Added Pin To Net: NetName=PB8 Pin=S4-2
+Added Net: Name=PB8
+Added Pin To Net: NetName=PB9 Pin=S9-2
+Added Pin To Net: NetName=PB9 Pin=S9-2
+Added Net: Name=PB9
+Added Pin To Net: NetName=PB10 Pin=S10-2
+Added Pin To Net: NetName=PB10 Pin=S10-2
+Added Net: Name=PB10
+Added Pin To Net: NetName=PB11 Pin=S11-2
+Added Pin To Net: NetName=PB11 Pin=S11-2
+Added Net: Name=PB11
+Added Pin To Net: NetName=PB12 Pin=S12-2
+Added Pin To Net: NetName=PB12 Pin=S12-2
+Added Net: Name=PB12
+Added Pin To Net: NetName=Row1 Pin=S1-1
+Added Pin To Net: NetName=Row1 Pin=S1-1
+Added Pin To Net: NetName=Row1 Pin=S2-1
+Added Pin To Net: NetName=Row1 Pin=S2-1
+Added Pin To Net: NetName=Row1 Pin=S3-1
+Added Pin To Net: NetName=Row1 Pin=S3-1
+Added Pin To Net: NetName=Row1 Pin=S4-1
+Added Pin To Net: NetName=Row1 Pin=S4-1
+Added Pin To Net: NetName=Row1 Pin=S5-1
+Added Pin To Net: NetName=Row1 Pin=S5-1
+Added Pin To Net: NetName=Row1 Pin=S6-1
+Added Pin To Net: NetName=Row1 Pin=S6-1
+Added Pin To Net: NetName=Row1 Pin=S7-1
+Added Pin To Net: NetName=Row1 Pin=S7-1
+Added Pin To Net: NetName=Row1 Pin=S8-1
+Added Pin To Net: NetName=Row1 Pin=S8-1
+Added Pin To Net: NetName=Row1 Pin=S9-1
+Added Pin To Net: NetName=Row1 Pin=S9-1
+Added Pin To Net: NetName=Row1 Pin=S10-1
+Added Pin To Net: NetName=Row1 Pin=S10-1
+Added Pin To Net: NetName=Row1 Pin=S11-1
+Added Pin To Net: NetName=Row1 Pin=S11-1
+Added Pin To Net: NetName=Row1 Pin=S12-1
+Added Pin To Net: NetName=Row1 Pin=S12-1
+Added Net: Name=Row1
+Added Class: Name=Proto_buttons
+Added Rule: Name=Schematic Supply Nets
+Added Rule: Name=Schematic Supply Nets_1

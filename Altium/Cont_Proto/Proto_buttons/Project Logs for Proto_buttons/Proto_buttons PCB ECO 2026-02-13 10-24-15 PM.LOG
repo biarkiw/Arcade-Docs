@@ -1,0 +1,138 @@
+Removed Pin From Net: NetName=Row1 Pin=S5-1
+Removed Pin From Net: NetName=Row1 Pin=S5-1
+Removed Pin From Net: NetName=Row1 Pin=S6-1
+Removed Pin From Net: NetName=Row1 Pin=S6-1
+Removed Pin From Net: NetName=Row1 Pin=S7-1
+Removed Pin From Net: NetName=Row1 Pin=S7-1
+Removed Pin From Net: NetName=Row1 Pin=S8-1
+Removed Pin From Net: NetName=Row1 Pin=S8-1
+Removed Pin From Net: NetName=Row1 Pin=S9-1
+Removed Pin From Net: NetName=Row1 Pin=S9-1
+Removed Pin From Net: NetName=Row1 Pin=S10-1
+Removed Pin From Net: NetName=Row1 Pin=S10-1
+Removed Pin From Net: NetName=Row1 Pin=S11-1
+Removed Pin From Net: NetName=Row1 Pin=S11-1
+Removed Pin From Net: NetName=Row1 Pin=S12-1
+Removed Pin From Net: NetName=Row1 Pin=S12-1
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Add Pin To Net: Unknown Pin: Pin C6-1
+Add Pin To Net: Unknown Pin: Pin C6-2
+Add Pin To Net: Unknown Pin: Pin C7-1
+Add Pin To Net: Unknown Pin: Pin C7-2
+Add Pin To Net: Unknown Pin: Pin C8-1
+Add Pin To Net: Unknown Pin: Pin C8-2
+Add Pin To Net: Unknown Pin: Pin C9-1
+Add Pin To Net: Unknown Pin: Pin C9-2
+Add Pin To Net: Unknown Pin: Pin C10-1
+Add Pin To Net: Unknown Pin: Pin C10-2
+Add Pin To Net: Unknown Pin: Pin C11-1
+Add Pin To Net: Unknown Pin: Pin C11-2
+Add Pin To Net: Unknown Pin: Pin C12-1
+Add Pin To Net: Unknown Pin: Pin C12-2
+Add Pin To Net: Unknown Pin: Pin J1-1
+Add Pin To Net: Unknown Pin: Pin J1-4
+Add Pin To Net: Unknown Pin: Pin J1-5
+Add Pin To Net: Unknown Pin: Pin J1-6
+Add Pin To Net: Unknown Pin: Pin J1-7
+Add Pin To Net: Unknown Pin: Pin J1-8
+Add Pin To Net: Unknown Pin: Pin J2-1
+Add Pin To Net: Unknown Pin: Pin J2-2
+Add Pin To Net: Unknown Pin: Pin J2-3
+Add Pin To Net: Unknown Pin: Pin J2-4
+Add Pin To Net: Unknown Pin: Pin J2-5
+Add Pin To Net: Unknown Pin: Pin J2-6
+Add Pin To Net: Unknown Pin: Pin J2-7
+Add Pin To Net: Unknown Pin: Pin J2-8
+Add Pin To Net: Unknown Pin: Pin J2-9
+Add Pin To Net: Unknown Pin: Pin J2-10
+Add Pin To Net: Unknown Pin: Pin J2-11
+Add Pin To Net: Unknown Pin: Pin J2-12
+Add Pin To Net: Unknown Pin: Pin J2-13
+Add Pin To Net: Unknown Pin: Pin J2-14
+Add Pin To Net: Unknown Pin: Pin L1-1
+Add Pin To Net: Unknown Pin: Pin L1-2
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Add Pin To Net: Unknown Pin: Pin R5-1
+Add Pin To Net: Unknown Pin: Pin R5-2
+Add Pin To Net: Unknown Pin: Pin R6-1
+Add Pin To Net: Unknown Pin: Pin R6-2
+Add Pin To Net: Unknown Pin: Pin R7-1
+Add Pin To Net: Unknown Pin: Pin R7-2
+Add Pin To Net: Unknown Pin: Pin R8-1
+Add Pin To Net: Unknown Pin: Pin R8-2
+Add Pin To Net: Unknown Pin: Pin R9-1
+Add Pin To Net: Unknown Pin: Pin R9-2
+Add Pin To Net: Unknown Pin: Pin R10-1
+Add Pin To Net: Unknown Pin: Pin R10-2
+Add Pin To Net: Unknown Pin: Pin R11-1
+Add Pin To Net: Unknown Pin: Pin R11-2
+Add Pin To Net: Unknown Pin: Pin R12-1
+Add Pin To Net: Unknown Pin: Pin R12-2
+Add Pin To Net: Unknown Pin: Pin R13-1
+Add Pin To Net: Unknown Pin: Pin R13-2
+Add Pin To Net: Unknown Pin: Pin R14-1
+Add Pin To Net: Unknown Pin: Pin R14-2
+Add Pin To Net: Unknown Pin: Pin R15-1
+Add Pin To Net: Unknown Pin: Pin R15-2
+Added Pin To Net: NetName=Row2 Pin=S5-1
+Added Pin To Net: NetName=Row2 Pin=S5-1
+Added Pin To Net: NetName=Row2 Pin=S6-1
+Added Pin To Net: NetName=Row2 Pin=S6-1
+Added Pin To Net: NetName=Row2 Pin=S7-1
+Added Pin To Net: NetName=Row2 Pin=S7-1
+Added Pin To Net: NetName=Row2 Pin=S8-1
+Added Pin To Net: NetName=Row2 Pin=S8-1
+Added Net: Name=Row2
+Added Pin To Net: NetName=Row3 Pin=S9-1
+Added Pin To Net: NetName=Row3 Pin=S9-1
+Added Pin To Net: NetName=Row3 Pin=S10-1
+Added Pin To Net: NetName=Row3 Pin=S10-1
+Added Pin To Net: NetName=Row3 Pin=S11-1
+Added Pin To Net: NetName=Row3 Pin=S11-1
+Added Pin To Net: NetName=Row3 Pin=S12-1
+Added Pin To Net: NetName=Row3 Pin=S12-1
+Added Net: Name=Row3
+Add Class Member: Failed to add class member : Component C1 Capacitor
+Add Class Member: Failed to add class member : Component C2 Capacitor
+Add Class Member: Failed to add class member : Component C3 Capacitor
+Add Class Member: Failed to add class member : Component C4 Capacitor
+Add Class Member: Failed to add class member : Component C5 Capacitor
+Add Class Member: Failed to add class member : Component C6 Capacitor
+Add Class Member: Failed to add class member : Component C7 Capacitor
+Add Class Member: Failed to add class member : Component C8 Capacitor
+Add Class Member: Failed to add class member : Component C9 Capacitor
+Add Class Member: Failed to add class member : Component C10 Capacitor
+Add Class Member: Failed to add class member : Component C11 Capacitor
+Add Class Member: Failed to add class member : Component C12 Capacitor
+Add Class Member: Failed to add class member : Component J1 8 Pin RA Connector
+Add Class Member: Failed to add class member : Component J2 14 Pin RA Connector
+Add Class Member: Failed to add class member : Component L1 Inductor
+Add Class Member: Failed to add class member : Component R1 Resistor
+Add Class Member: Failed to add class member : Component R2 Resistor
+Add Class Member: Failed to add class member : Component R3 Resistor
+Add Class Member: Failed to add class member : Component R4 Resistor
+Add Class Member: Failed to add class member : Component R5 Resistor
+Add Class Member: Failed to add class member : Component R6 Resistor
+Add Class Member: Failed to add class member : Component R7 Resistor
+Add Class Member: Failed to add class member : Component R8 Resistor
+Add Class Member: Failed to add class member : Component R9 Resistor
+Add Class Member: Failed to add class member : Component R10 Resistor
+Add Class Member: Failed to add class member : Component R11 Resistor
+Add Class Member: Failed to add class member : Component R12 Resistor
+Add Class Member: Failed to add class member : Component R13 Resistor
+Add Class Member: Failed to add class member : Component R14 Resistor
+Add Class Member: Failed to add class member : Component R15 Resistor
