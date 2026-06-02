@@ -1,0 +1,63 @@
+Added Component: Designator=J1(8pin-Edge Connector)
+Added Component: Designator=J2(14pin-Edge Connector)
+Add component (AddParameter): Name = "Supplier 1"; Value = "DigiKey"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier Part Number 1"; Value = "2073-SWT0310-043016GSACT-ND"; VariantName = "[No Variations]"
+Added Component: Designator=R16(Yageo_0603)
+Add component (AddParameter): Name = "DTEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SimulationGenericComponent"; Value = "True"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "T_REL_LOCAL"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC1"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TC2"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "TEMP"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Row1 Pin=J1-1
+Added Pin To Net: NetName=Row1 Pin=J1-1
+Added Pin To Net: NetName=Row2 Pin=J1-2
+Added Pin To Net: NetName=Row2 Pin=J1-2
+Added Pin To Net: NetName=Row3 Pin=J1-3
+Added Pin To Net: NetName=Row3 Pin=J1-3
+Added Pin To Net: NetName=Col1 Pin=J1-4
+Added Pin To Net: NetName=Col1 Pin=J1-4
+Added Pin To Net: NetName=Col1 Pin=J1-5
+Added Pin To Net: NetName=Col1 Pin=J1-5
+Added Pin To Net: NetName=Col1 Pin=J1-6
+Added Pin To Net: NetName=Col1 Pin=J1-6
+Added Pin To Net: NetName=Col1 Pin=J1-7
+Added Pin To Net: NetName=Col1 Pin=J1-7
+Added Pin To Net: NetName=Col1 Pin=J1-8
+Added Pin To Net: NetName=Col1 Pin=J1-8
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=+5 Pin=J2-1
+Added Pin To Net: NetName=PB1 Pin=J2-2
+Added Pin To Net: NetName=PB1 Pin=J2-2
+Added Pin To Net: NetName=PB2 Pin=J2-3
+Added Pin To Net: NetName=PB2 Pin=J2-3
+Added Pin To Net: NetName=PB3 Pin=J2-4
+Added Pin To Net: NetName=PB3 Pin=J2-4
+Added Pin To Net: NetName=PB4 Pin=J2-5
+Added Pin To Net: NetName=PB4 Pin=J2-5
+Added Pin To Net: NetName=PB5 Pin=J2-6
+Added Pin To Net: NetName=PB5 Pin=J2-6
+Added Pin To Net: NetName=PB6 Pin=J2-7
+Added Pin To Net: NetName=PB6 Pin=J2-7
+Added Pin To Net: NetName=PB7 Pin=J2-8
+Added Pin To Net: NetName=PB7 Pin=J2-8
+Added Pin To Net: NetName=PB8 Pin=J2-9
+Added Pin To Net: NetName=PB8 Pin=J2-9
+Added Pin To Net: NetName=PB9 Pin=J2-10
+Added Pin To Net: NetName=PB9 Pin=J2-10
+Added Pin To Net: NetName=PB10 Pin=J2-11
+Added Pin To Net: NetName=PB10 Pin=J2-11
+Added Pin To Net: NetName=PB11 Pin=J2-12
+Added Pin To Net: NetName=PB11 Pin=J2-12
+Added Pin To Net: NetName=PB12 Pin=J2-13
+Added Pin To Net: NetName=PB12 Pin=J2-13
+Added Pin To Net: NetName=Col1 Pin=J2-14
+Added Pin To Net: NetName=Col1 Pin=J2-14
+Added Pin To Net: NetName=+5 Pin=R16-1
+Added Pin To Net: NetName=NetL1_2 Pin=R16-2
+Change Net Name : Old Net Name=NetL1_2 New Net Name=NetR1_1
+Added Member To Class: ClassName=Proto_buttons Member=Component J1 8 Pin RA Connector
+Added Member To Class: ClassName=Proto_buttons Member=Component J2 14 Pin RA Connector
+Added Member To Class: ClassName=Proto_buttons Member=Component R16 Resistor
