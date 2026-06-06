@@ -1,0 +1,4 @@
+Change Component Designator: OldDesignator=R? NewDesignator=R24
+Change Component Designator: OldDesignator=R? NewDesignator=R25
+Added Member To Class: ClassName=Proto_buttons Member=Component J2 8 Pin RA Connector
+Added Member To Class: ClassName=Proto_buttons Member=Component R25 Resistor
